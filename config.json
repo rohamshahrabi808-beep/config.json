@@ -10,16 +10,36 @@
   },
   "announcements": [
     {
+      "id": 3,
+      "text": "تعمیر تمام شد🛠️\nبرای ۲۰ دقیقه ضریب سکه کشتن پنج برابر میشود✅"
+    },
+    {
+      "id": 2,
+      "text": "بازی درحال تعمیر است ممنون از صبوریتون🛠️"
+    },
+    {
       "id": 1,
       "warn": true,
       "text": "توجه :\nاعلان ها پاک شدن و منتظر باشید تا کل قوانین رو بگیم بهتون"
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "name": "Admin war",
+      "message": "ایونت به زودی ...",
+      "start": "2026-10-12T17:35:00+03:30",
+      "end": "2026-10-12T18:20:00+03:30",
+      "tuning": {
+        "enemyHp": 2,
+        "enemySpeed": 2,
+        "killCoins": 9
+      }
+    }
+  ],
   "tuning": {
     "enemyHp": 1,
     "enemySpeed": 1,
-    "killCoins": 1
+    "killCoins": 5
   },
   "features": {
     "craft": true,
