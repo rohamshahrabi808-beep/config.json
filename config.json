@@ -40,6 +40,33 @@
       }
     }
   ],
+  "shop": {
+    "cashback": 50,
+    "banner": "تست تخفیف",
+    "offers": [
+      {
+        "id": "offer-mv1gxbtq",
+        "title": "بسته پر انرژی",
+        "desc": "فقط و فقط یک بار و مدت محدود دارای سکه زیاد",
+        "price": {
+          "coins": 1000,
+          "gems": 3
+        },
+        "reward": {
+          "coins": 1500,
+          "gems": 30,
+          "mask": "gold",
+          "shards": {
+            "magnet": 1,
+            "vortex": 1
+          }
+        },
+        "limit": 1,
+        "start": "2026-10-10T00:50:00+03:30",
+        "end": "2026-10-10T13:23:00+03:30"
+      }
+    ]
+  },
   "tuning": {
     "enemyHp": 1,
     "enemySpeed": 1,
@@ -49,4 +76,4 @@
     "craft": true,
     "design": true
   }
-      }
+}
