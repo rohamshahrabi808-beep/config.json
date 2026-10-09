@@ -1,6 +1,6 @@
 {
   "maintenance": { "on": false, "message": "بازی موقتاً در حال تعمیر است. کمی بعد دوباره امتحان کن." },
-  "banner": "",
+  "banner": "نسخه جدید منتشر شده",
   "update": { "version": 170, "message": "نسخهٔ تازهٔ بازی آماده است" },
   "announcements": [
     {    
