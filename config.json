@@ -1,6 +1,6 @@
 {
   "maintenance": {
-    "on": true,
+    "on": false,
     "message": "در حال تنظیم بخش هایی از بازی هستیم\nممنون از صبوریتون"
   },
   "banner": "",
