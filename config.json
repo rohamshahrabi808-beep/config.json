@@ -34,19 +34,19 @@
       "start": "2026-10-12T17:35:00+03:30",
       "end": "2026-10-12T18:20:00+03:30",
       "tuning": {
-        "enemyHp": 2,
-        "enemySpeed": 2,
-        "killCoins": 9
+        "enemyHp": 1,
+        "enemySpeed": 1,
+        "killCoins": 1
       }
     }
   ],
   "tuning": {
     "enemyHp": 1,
     "enemySpeed": 1,
-    "killCoins": 5
+    "killCoins": 1
   },
   "features": {
     "craft": true,
     "design": true
   }
-}
+      }
